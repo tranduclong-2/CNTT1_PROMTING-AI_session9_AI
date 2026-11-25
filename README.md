@@ -330,7 +330,3 @@ Kết quả Learning Recommendation:
 | Xử lý Prompt Injection | Đạt |
 | Có Few-shot | Đạt |
 | Có kiểm thử và cải tiến | Đạt |
-
-## KẾT LUẬN
-
-AI Student Support Assistant đáp ứng các yêu cầu cơ bản của SRS, hỗ trợ sinh viên từ tiếp nhận tài liệu, luyện tập, đánh giá đến đề xuất nội dung cần cải thiện.
